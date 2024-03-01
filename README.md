@@ -40,7 +40,6 @@ text (Text): This column contains the text content of the email messages. It inc
 
 spam_or_not (Binary): This column contains binary labels to indicate whether an email is spam or not. "1" represents spam, while "0" represents not spam.
 
-Usage:
 This dataset can be used for various Natural Language Processing (NLP) tasks, such as text classification and spam detection. Researchers and data scientists can train and evaluate machine learning models using this dataset to build effective spam email filters.
 
 ## Additional Notes
