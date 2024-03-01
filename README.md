@@ -23,7 +23,7 @@ The project uses a Bag-of-Words model and the Naive Bayes classifier to classify
 
 1. Ensure you have Python installed on your system.
 2. Install the required libraries using pip:
-3. Download the `spam_dataset.csv` file or prepare your own dataset in a similar format.
+3. Download the `email.csv` file or prepare your own dataset in a similar format.
 4. Run the provided Python script `spam_detection.py`.
 5. The script will train the model, evaluate its accuracy, and make predictions on new emails.
 
