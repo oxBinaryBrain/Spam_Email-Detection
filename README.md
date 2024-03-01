@@ -29,7 +29,7 @@ The project uses a Bag-of-Words model and the Naive Bayes classifier to classify
 
 ## Dataset
 
-The dataset used in this project is stored in a CSV file (`spam_dataset.csv`). It contains two columns: 'text' for the email content and 'label' indicating whether each email is spam (1) or not spam (0). You can replace this dataset with your own CSV file following the same format.
+The dataset used in this project is stored in a CSV file (`emails.csv`). It contains two columns: 'text' for the email content and 'label' indicating whether each email is spam (1) or not spam (0). You can replace this dataset with your own CSV file following the same format.
 
 ## Additional Notes
 
