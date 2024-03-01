@@ -27,9 +27,21 @@ The project uses a Bag-of-Words model and the Naive Bayes classifier to classify
 4. Run the provided Python script `spam_detection.py`.
 5. The script will train the model, evaluate its accuracy, and make predictions on new emails.
 
-## Dataset
+## About Dataset
 
-The dataset used in this project is stored in a CSV file (`emails.csv`). It contains two columns: 'text' for the email content and 'label' indicating whether each email is spam (1) or not spam (0). You can replace this dataset with your own CSV file following the same format.
+Dataset Name: Spam Email Dataset
+
+Description:
+This dataset contains a collection of email text messages, labeled as either spam or not spam. Each email message is associated with a binary label, where "1" indicates that the email is spam, and "0" indicates that it is not spam. The dataset is intended for use in training and evaluating spam email classification models.
+
+Columns:
+
+text (Text): This column contains the text content of the email messages. It includes the body of the emails along with any associated subject lines or headers.
+
+spam_or_not (Binary): This column contains binary labels to indicate whether an email is spam or not. "1" represents spam, while "0" represents not spam.
+
+Usage:
+This dataset can be used for various Natural Language Processing (NLP) tasks, such as text classification and spam detection. Researchers and data scientists can train and evaluate machine learning models using this dataset to build effective spam email filters.
 
 ## Additional Notes
 
